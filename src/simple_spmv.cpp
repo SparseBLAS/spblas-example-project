@@ -1,7 +1,5 @@
 #include <spblas/spblas.hpp>
 
-#include <fmt/ranges.h>
-
 int main(int argc, char** argv) {
   using namespace spblas;
 
